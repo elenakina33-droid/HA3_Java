@@ -1,0 +1,8 @@
+[SYSTEM] 2025-11-07T16:09:42.4288498+01:00 Vehicle added: StorageVehicle{id='1', name='aa', battery=20%}
+[SYSTEM] 2025-11-07T16:09:52.1828101+01:00 Added unassigned item: aa (aa), qty=3
+[SYSTEM] 2025-11-07T16:09:54.5513063+01:00 Task created: Task{id='AUTO-1762528194535', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T19:24:11.4122751+01:00 Vehicle added: StorageVehicle{id='1', name='qq', battery=20%}
+[SYSTEM] 2025-11-07T19:25:19.6242156+01:00 Vehicle added: StorageVehicle{id='3', name='ee', battery=20%}
+[SYSTEM] 2025-11-07T19:25:38.9924978+01:00 Vehicle added: StorageVehicle{id='2', name='ww', battery=20%}
+[SYSTEM] 2025-11-07T19:26:45.6421335+01:00 Task created: Task{id='AUTO-1762540005601', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T19:28:59.0873384+01:00 Vehicle added: StorageVehicle{id='4', name='Elena', battery=20%}

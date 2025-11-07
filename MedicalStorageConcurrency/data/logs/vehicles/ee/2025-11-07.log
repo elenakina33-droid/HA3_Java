@@ -1,0 +1,15 @@
+[VEHICLE:ee] 2025-11-07T19:25:19.6282256+01:00 created
+[VEHICLE:ee] 2025-11-07T19:27:45.7572636+01:00 ⚠️ Battery low (10%). ee going to Default_Station_2 for charging...
+[VEHICLE:ee] 2025-11-07T19:27:45.7799546+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:ee] 2025-11-07T19:28:05.795404+01:00 🔌 ee charging at Default_Station_2... Battery now 15%
+[VEHICLE:ee] 2025-11-07T19:28:25.8112772+01:00 🔌 ee charging at Default_Station_2... Battery now 20%
+[VEHICLE:ee] 2025-11-07T19:28:45.8273894+01:00 🔌 ee charging at Default_Station_2... Battery now 25%
+[VEHICLE:ee] 2025-11-07T19:29:05.8393092+01:00 🔌 ee charging at Default_Station_2... Battery now 30%
+[VEHICLE:ee] 2025-11-07T19:29:25.8606531+01:00 🔌 ee charging at Default_Station_2... Battery now 35%
+[VEHICLE:ee] 2025-11-07T19:29:45.8745371+01:00 🔌 ee charging at Default_Station_2... Battery now 40%
+[VEHICLE:ee] 2025-11-07T19:30:05.8818995+01:00 🔌 ee charging at Default_Station_2... Battery now 45%
+[VEHICLE:ee] 2025-11-07T19:30:25.8930107+01:00 🔌 ee charging at Default_Station_2... Battery now 50%
+[VEHICLE:ee] 2025-11-07T19:30:45.8967718+01:00 🔌 ee charging at Default_Station_2... Battery now 55%
+[VEHICLE:ee] 2025-11-07T19:31:05.9126962+01:00 🔌 ee charging at Default_Station_2... Battery now 60%
+[VEHICLE:ee] 2025-11-07T19:31:25.9358495+01:00 🔌 ee charging at Default_Station_2... Battery now 65%
+[VEHICLE:ee] 2025-11-07T19:31:45.9489311+01:00 🔌 ee charging at Default_Station_2... Battery now 70%
